@@ -1,0 +1,1 @@
+This assignment is basically a simple library management system in python using list, dictionary, tuples,and functions, of which the system allow adding, searching, updating, deleting,borrowing, and returning nooks.
